@@ -11,6 +11,7 @@ A simple farm game where you can grow crops, explore caves with enemies, fish an
 
 <details>
   <summary><strong>:hammer_and_wrench: Features:</strong></summary><br />
+
   - :deciduous_tree: Turn your overgrown fields into a lively and bountiful farm!
   - :cow: Raise animals, go fishing, tend to crops, craft items, or do it all! The choice is yours...
   - :crossed_swords: Encounter dangerous monsters & valuable treasures deep underground!
